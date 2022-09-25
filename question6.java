@@ -1,10 +1,10 @@
 public class question6 {
     public static void main(String args[]){
-        int a=3;
+        int x=3;
         do{
-            System.out.print(a+" ");
-            a+=3;
+            System.out.print(x+" ");
+            x+=3;
         }
-        while(a<=36);
+        while(x<=36);
     }
 }
